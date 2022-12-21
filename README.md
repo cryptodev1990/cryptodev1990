@@ -187,11 +187,11 @@ Collaborative team player with excellent technical abilities offering 7 years of
 ### Github Stats
 
 <br/>
-<a href="https://github.com/Dragonwarrior1234"><img alt="Dragonwarrior1234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dragonwarrior1234&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/Dragonwarrior1234"><img alt="Dragonwarrior1234's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dragonwarrior1234&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/cryptodev1990"><img alt="cryptodev1990's Github Stats" src="https://github-readme-stats.vercel.app/api?username=cryptodev1990&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/cryptodev1990"><img alt="cryptodev1990's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptodev1990&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 <br/>
 <br/>
-<a href="https://github.com/Dragonwarrior1234"><img alt="Dragonwarrior1234's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dragonwarrior1234&custom_title=Dragonwarrior1234's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/cryptodev1990"><img alt="cryptodev1990's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cryptodev1990&custom_title=cryptodev1990's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <hr>
